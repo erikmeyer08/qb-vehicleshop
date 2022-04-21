@@ -220,7 +220,7 @@ Config.Shops = {
         ['blipSprite'] = 251,  -- Blip sprite
         ['blipColor'] = 3,  -- Blip color
         ['Categories'] = { -- Categories available to browse
-            ['helicopters'] = 'Helicopters',
+            ['helis'] = 'Helicopters',
             ['planes'] = 'Planes',
         },
         ['TestDriveTimeLimit'] = 1.5, -- Time in minutes until the vehicle gets deleted
